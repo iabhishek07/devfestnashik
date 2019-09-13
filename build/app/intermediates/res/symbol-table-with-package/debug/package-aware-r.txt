@@ -1,0 +1,4 @@
+com.gdgnashik.gdg_nashik
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
